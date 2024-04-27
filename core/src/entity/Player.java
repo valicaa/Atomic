@@ -163,7 +163,7 @@ public class Player {
         }
 
         stateTime += Gdx.graphics.getDeltaTime();
-        System.out.println(isJumping);
+//        System.out.println(isJumping);
 //        System.out.println("x: " + x + ", y: " + y);
     }
 
