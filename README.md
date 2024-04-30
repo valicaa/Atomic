@@ -2,3 +2,5 @@ Files are developed on VSCODE, so the settings might be different if you work or
 I recommend to use IntelliJ for easier and friendlier user experience on developing and executing the code.
 
 This project uses LibGDX as it's engine.
+
+NEXT SELESAIN ANIMATION KEYFRAME INTERVAL

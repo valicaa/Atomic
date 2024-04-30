@@ -8,7 +8,7 @@ import com.mygdx.atomic.Atomic;
 public class DesktopLauncher {
 	public static void main (String[] arg) {
 		Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
-		config.setForegroundFPS(60);
+		config.setForegroundFPS(144);
 		config.setTitle("Atomic");
 		config.setWindowedMode(Atomic.WIDTH, Atomic.HEIGHT);
 		new Lwjgl3Application(new Atomic(), config);
